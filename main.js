@@ -44,5 +44,5 @@ name.appendChild(email);
 var ph=document.createElement("p");
 ph.textContent=leftside.phone;
 email.appendChild(ph);
-
+console.log(left);
 }
