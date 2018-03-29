@@ -4,5 +4,45 @@
     "name":"gunashree",
     "email":"sunkeswarisaigunashree9",
   "phone":"9493660218"
+},
+"education":[
+{
+  "course":"B.tech(computer science and engineering)",
+  "college":[
+    "Ravindra college of engineering for women",
+    "2015-2019",
+    "65%"
+  ]
+},
+{
+  "course":"Intermediate(MPC)",
+  "college":[
+    "Sri chaitanya college",
+    "2013-2015",
+    "75%"
+  ]
+},
+{
+  "course":"ssc",
+  "college":[
+    "Milton grammer english medium school",
+    "2013",
+    "75%"
+  ]
 }
+],
+"skills":[
+  {
+    "name":"operating systems",
+    "value":"windows,linux"
+  },
+  {
+    "name":"programming languages",
+    "value":"c,c++,java"
+  },
+  {
+    "name":"web development",
+    "value":"HTML,.NET"
+  }
+]
 }
